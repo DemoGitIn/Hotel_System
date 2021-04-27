@@ -1,9 +1,5 @@
 ### Screenshots.
 
-![]("hotel-img/hotel1.png")
-
-<img src="C:/Users/Usuario/Pictures/hotel-img/hotel1.png" />
-
 ![hotel1](https://user-images.githubusercontent.com/26721019/116287204-83858300-a766-11eb-8329-02dd13d8686b.png)
 
 ![hotel2](https://user-images.githubusercontent.com/26721019/116287790-31912d00-a767-11eb-861d-9d8ec9693af1.png)
